@@ -14,7 +14,6 @@ class Solution {
 }
 
 public class QUESTION215 {
-    // Wrapper for local testing if needed
     public int findKthLargest(int[] nums, int k) {
         return new Solution().findKthLargest(nums, k);
     }
