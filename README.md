@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hotshot0104/leet-code1/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/hotshot0104/leet-code1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshot0104/leet-code1/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -91,9 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/hotshot0104/leet-code1/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/hotshot0104/leet-code1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hotshot0104/leet-code1/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/hotshot0104/leet-code1/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/hotshot0104/leet-code1/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
