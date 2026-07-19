@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hotshot0104/leet-code1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshot0104/leet-code1/tree/master/0142-linked-list-cycle-ii) |
+| [0707-design-linked-list](https://github.com/hotshot0104/leet-code1/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/hotshot0104/leet-code1/tree/master/0707-design-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
