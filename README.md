@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hotshot0104/leet-code1/tree/master/0001-two-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hotshot0104/leet-code1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshot0104/leet-code1/tree/master/0142-linked-list-cycle-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
