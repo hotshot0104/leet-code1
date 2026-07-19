@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/hotshot0104/leet-code1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshot0104/leet-code1/tree/master/0142-linked-list-cycle-ii) |
+| [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,11 +36,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -66,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
