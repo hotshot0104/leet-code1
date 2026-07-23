@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hotshot0104/leet-code1/tree/master/0503-next-greater-element-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hotshot0104/leet-code1/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
