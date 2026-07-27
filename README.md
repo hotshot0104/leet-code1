@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hotshot0104/leet-code1/tree/master/0503-next-greater-element-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/hotshot0104/leet-code1/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hotshot0104/leet-code1/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/hotshot0104/leet-code1/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
