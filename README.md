@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hotshot0104/leet-code1/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/1137-n-th-tribonacci-number) |
+| [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hotshot0104/leet-code1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/1137-n-th-tribonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
