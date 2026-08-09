@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
+| [2235-add-two-integers](https://github.com/hotshot0104/leet-code1/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hotshot0104/leet-code1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
