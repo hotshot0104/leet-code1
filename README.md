@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/hotshot0104/leet-code1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/hotshot0104/leet-code1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hotshot0104/leet-code1/tree/master/0503-next-greater-element-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hotshot0104/leet-code1/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/hotshot0104/leet-code1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hotshot0104/leet-code1/tree/master/0142-linked-list-cycle-ii) |
+| [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshot0104/leet-code1/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
