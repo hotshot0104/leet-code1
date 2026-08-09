@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hotshot0104/leet-code1/tree/master/1480-running-sum-of-1d-array) |
+| [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,4 +169,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
+| [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
 <!---LeetCode Topics End-->
