@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hotshot0104/leet-code1/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/hotshot0104/leet-code1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hotshot0104/leet-code1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/hotshot0104/leet-code1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
