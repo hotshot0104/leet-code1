@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/hotshot0104/leet-code1/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hotshot0104/leet-code1/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/1137-n-th-tribonacci-number) |
@@ -201,4 +202,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/hotshot0104/leet-code1/tree/master/0881-boats-to-save-people) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
