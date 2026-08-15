@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hotshot0104/leet-code1/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/hotshot0104/leet-code1/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/hotshot0104/leet-code1/tree/master/1920-build-array-from-permutation) |
 | [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
 | [3925-concatenate-array-with-reverse](https://github.com/hotshot0104/leet-code1/tree/master/3925-concatenate-array-with-reverse) |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/hotshot0104/leet-code1/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
