@@ -12,3 +12,6 @@ class Solution {
         return target;
         }
     }
+    //can be done using the using dynamic array
+    //where we can take using array(index[i],nums[i])
+    //then list.get();to print;
