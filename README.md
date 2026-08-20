@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/hotshot0104/leet-code1/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/hotshot0104/leet-code1/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hotshot0104/leet-code1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hotshot0104/leet-code1/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hotshot0104/leet-code1/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/hotshot0104/leet-code1/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/1137-n-th-tribonacci-number) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/hotshot0104/leet-code1/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/hotshot0104/leet-code1/tree/master/2235-add-two-integers) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/hotshot0104/leet-code1/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/hotshot0104/leet-code1/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hotshot0104/leet-code1/tree/master/1389-create-target-array-in-the-given-order) |
 | [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/hotshot0104/leet-code1/tree/master/1920-build-array-from-permutation) |
