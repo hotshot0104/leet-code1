@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/hotshot0104/leet-code1/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/hotshot0104/leet-code1/tree/master/1920-build-array-from-permutation) |
 | [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3925-concatenate-array-with-reverse](https://github.com/hotshot0104/leet-code1/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hotshot0104/leet-code1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hotshot0104/leet-code1/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/hotshot0104/leet-code1/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/hotshot0104/leet-code1/tree/master/2235-add-two-integers) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hotshot0104/leet-code1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
