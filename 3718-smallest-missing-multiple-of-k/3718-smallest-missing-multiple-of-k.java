@@ -1,18 +1,39 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
 
-        HashSet<Integer> set = new HashSet<>();
+        ArrayList<Integer> list = new ArrayList<>();
 
-        for (int num : nums) {
-            set.add(num);
+        int max = 0;
+
+        // maximum element
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] > max) {
+                max = nums[i];
+            }
+        }
+        for (int i = 1; k * i <= max + k; i++) {
+            list.add(k * i);
         }
 
-        int multiple = k;
+        // check every multiple
+        for (int i = 0; i < list.size(); i++) {
 
-        while (set.contains(multiple)) {
-            multiple += k;
+            boolean found = false;
+            // search this multiple in nums
+            for (int j = 0; j < nums.length; j++) {
+
+                if (nums[j] == list.get(i)) {
+                    found = true;
+                    break;
+                }
+            }
+
+            // poore nums mein nahi mila
+            if (!found) {
+                return list.get(i);
+            }
         }
 
-        return multiple;
+        return -1;
     }
 }
