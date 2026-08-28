@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/hotshot0104/leet-code1/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hotshot0104/leet-code1/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/hotshot0104/leet-code1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/hotshot0104/leet-code1/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/hotshot0104/leet-code1/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/hotshot0104/leet-code1/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/hotshot0104/leet-code1/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/hotshot0104/leet-code1/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
