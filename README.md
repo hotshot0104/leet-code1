@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/hotshot0104/leet-code1/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/hotshot0104/leet-code1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/hotshot0104/leet-code1/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/hotshot0104/leet-code1/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/hotshot0104/leet-code1/tree/master/0231-power-of-two) |
 | [0832-flipping-an-image](https://github.com/hotshot0104/leet-code1/tree/master/0832-flipping-an-image) |
 ## Recursion
