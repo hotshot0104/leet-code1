@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hotshot0104/leet-code1/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hotshot0104/leet-code1/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/hotshot0104/leet-code1/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/hotshot0104/leet-code1/tree/master/2235-add-two-integers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hotshot0104/leet-code1/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hotshot0104/leet-code1/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
