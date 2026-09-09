@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/hotshot0104/leet-code1/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/hotshot0104/leet-code1/tree/master/1920-build-array-from-permutation) |
 | [2079-watering-plants](https://github.com/hotshot0104/leet-code1/tree/master/2079-watering-plants) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hotshot0104/leet-code1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hotshot0104/leet-code1/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hotshot0104/leet-code1/tree/master/3875-construct-uniform-parity-array-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hotshot0104/leet-code1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hotshot0104/leet-code1/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hotshot0104/leet-code1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/hotshot0104/leet-code1/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hotshot0104/leet-code1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hotshot0104/leet-code1/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
 | [1512-number-of-good-pairs](https://github.com/hotshot0104/leet-code1/tree/master/1512-number-of-good-pairs) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/hotshot0104/leet-code1/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/hotshot0104/leet-code1/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Stack
 |  |
