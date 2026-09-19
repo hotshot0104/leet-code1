@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hotshot0104/leet-code1/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshot0104/leet-code1/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/hotshot0104/leet-code1/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/hotshot0104/leet-code1/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/hotshot0104/leet-code1/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/hotshot0104/leet-code1/tree/master/0881-boats-to-save-people) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hotshot0104/leet-code1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/hotshot0104/leet-code1/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0704-binary-search](https://github.com/hotshot0104/leet-code1/tree/master/0704-binary-search) |
 ## Binary Tree
 |  |
 | ------- |
