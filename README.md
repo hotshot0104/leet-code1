@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/hotshot0104/leet-code1/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hotshot0104/leet-code1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hotshot0104/leet-code1/tree/master/0283-move-zeroes) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/hotshot0104/leet-code1/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/hotshot0104/leet-code1/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/hotshot0104/leet-code1/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/hotshot0104/leet-code1/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/hotshot0104/leet-code1/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/hotshot0104/leet-code1/tree/master/0509-fibonacci-number) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hotshot0104/leet-code1/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
@@ -304,4 +307,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hotshot0104/leet-code1/tree/master/0094-binary-tree-inorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hotshot0104/leet-code1/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
