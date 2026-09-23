@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/hotshot0104/leet-code1/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/hotshot0104/leet-code1/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/hotshot0104/leet-code1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hotshot0104/leet-code1/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/hotshot0104/leet-code1/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hotshot0104/leet-code1/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/hotshot0104/leet-code1/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/hotshot0104/leet-code1/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/hotshot0104/leet-code1/tree/master/0414-third-maximum-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/hotshot0104/leet-code1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/hotshot0104/leet-code1/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/hotshot0104/leet-code1/tree/master/0977-squares-of-a-sorted-array) |
