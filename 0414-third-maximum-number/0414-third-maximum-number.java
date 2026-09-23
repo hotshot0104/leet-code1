@@ -1,21 +1,44 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Arrays.sort(nums);
+        int first = Integer.MIN_VALUE;
+        int second = Integer.MIN_VALUE;
+        int third = Integer.MIN_VALUE;
 
-        int count = 1;
-        int current = nums[nums.length - 1];
+        boolean firstSet = false;
+        boolean secondSet = false;
+        boolean thirdSet = false;
 
-        for (int i = nums.length - 2; i >= 0; i--) {
-            if (nums[i] != current) {
-                current = nums[i];
-                count++;
+        for (int num : nums) {
+
+            if (firstSet && num == first ||
+                secondSet && num == second ||
+                thirdSet && num == third) {
+                continue;
             }
 
-            if (count == 3) {
-                return current;
+            if (!firstSet || num > first) {
+                third = second;
+                thirdSet = secondSet;
+
+                second = first;
+                secondSet = firstSet;
+
+                first = num;
+                firstSet = true;
+            }
+            else if (!secondSet || num > second) {
+                third = second;
+                thirdSet = secondSet;
+
+                second = num;
+                secondSet = true;
+            }
+            else if (!thirdSet || num > third) {
+                third = num;
+                thirdSet = true;
             }
         }
 
-        return nums[nums.length - 1];
+        return thirdSet ? third : first;
     }
 }
